@@ -1,0 +1,8 @@
+C:\C#\GestaoDeProdutosOO\GestaoDeProdutosOO\bin\Debug\GestaoDeProdutosOO.exe.config
+C:\C#\GestaoDeProdutosOO\GestaoDeProdutosOO\bin\Debug\GestaoDeProdutosOO.exe
+C:\C#\GestaoDeProdutosOO\GestaoDeProdutosOO\bin\Debug\GestaoDeProdutosOO.pdb
+C:\C#\GestaoDeProdutosOO\GestaoDeProdutosOO\obj\Debug\GestaoDeProdutosOO.csproj.AssemblyReference.cache
+C:\C#\GestaoDeProdutosOO\GestaoDeProdutosOO\obj\Debug\GestaoDeProdutosOO.csproj.SuggestedBindingRedirects.cache
+C:\C#\GestaoDeProdutosOO\GestaoDeProdutosOO\obj\Debug\GestaoDeProdutosOO.csproj.CoreCompileInputs.cache
+C:\C#\GestaoDeProdutosOO\GestaoDeProdutosOO\obj\Debug\GestaoDeProdutosOO.exe
+C:\C#\GestaoDeProdutosOO\GestaoDeProdutosOO\obj\Debug\GestaoDeProdutosOO.pdb
